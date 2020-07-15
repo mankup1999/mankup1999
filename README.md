@@ -1,6 +1,6 @@
 # Manku Kumar Pathak 
-**Java EE software developer | Python ML developer
-Contact -  [Email Me](mankup1999@gmail.com)**
+**Java EE software developer | Python ML developer**
+**Contact -  [Email Me](mankup1999@gmail.com)**
 
 ### Work Experience
 **Wipro Turbo Internship (2 months)**
