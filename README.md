@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Manku Kumar Pathak 
+**Java EE software developer | Python ML developer
+Contact -  [Email Me](mankup1999@gmail.com)**
 
-You can use the [editor on GitHub](https://github.com/mankup1999/mankup1999/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Work Experience
+**Wipro Turbo Internship (2 months)**
+- worked to develop a java based solution for data virtualization projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Trainee at EiSystems Technologies (1 month)**
+- created a ML based desktop gui application using Python to analyze and predict data inferences
 
-### Markdown
+### Skills
+- C programming
+- Java SE & EE development(Hibernate & SpringBoot frameworks)
+- Python (3+)
+- Machine Learning
+- Web development (HTML,CSS,Bootstrap,Javascript)
+- Object Oriented Programming (OOP)
+- Data structures and Algorithms
+- Database Management System (DBMS) - MySql
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Personal Projects
+**Virtualized Shops API**
+- Restful API, built on top of Spring framework with MySQL in the backend, provides the services to create, delete, update and delete(CRUD) virtual shops with the desired information of owners, contact support, and products to sell
 
-```markdown
-Syntax highlighted code block
+**Get Appointment**
+- Java web application(servlets & JSPs) with MySql database, that helps people to book appointments with real-time chat support
 
-# Header 1
-## Header 2
-### Header 3
+**Prediction of Crimes in India**
+- Python GUI application implementing various Data analysis methods using queries and graphical means as well as predicts the trends and possible result from the data
 
-- Bulleted
-- List
+### Education
+**NIT Agartala**
+- B.Tech. from Computer Science & Engineering
+**SN Sinha College, Aurangabad**
+- Intermediate(+2) with PCM subjects
+**Chintawan Bigha HS**
+- Matriculation
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mankup1999/mankup1999/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Achievements 
+- Got 3 campus offers from Top IT companies including one **PPO(Pre-placement offer)**
+- Ranked under top 2% candidates for **NPTEL DBMS Certification Exam(2019)**
+- Ranked under top 5% candidates for **NPTEL DSA using Python Certification Exam(2019)**
+- Scored 6th rank in the state for **Jharkhand Polytechnic Exam(2015)**
+- 10th and 12th institutes topper
