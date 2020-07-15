@@ -32,8 +32,10 @@ Contact -  [Email Me](mankup1999@gmail.com)**
 ### Education
 **NIT Agartala**
 - B.Tech. from Computer Science & Engineering
+
 **SN Sinha College, Aurangabad**
 - Intermediate(+2) with PCM subjects
+
 **Chintawan Bigha HS**
 - Matriculation
 
